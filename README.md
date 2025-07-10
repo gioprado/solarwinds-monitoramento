@@ -36,7 +36,7 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 - [`adicionar-nodes-icmp.ps1`](Scripts/adicionar-nodes-em-massa-ICMP.ps1): automatiza a adição de múltiplos nodes ICMP no SolarWinds.
 
 ### 🔍 Consultas SWQL
-- [`interfaces-downtime-30dias.sql`](swql-queries/interfaces-downtime-30dias.sql): consulta que mostra tempo total de indisponibilidade de interfaces no último mês.
+(SWQL): consultas SWQL para criação de dashboards/relatórios.
 
 ### ⚙️ Projetos
 
