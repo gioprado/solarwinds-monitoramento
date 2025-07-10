@@ -3,9 +3,10 @@
     Adiciona múltiplos nodes ICMP ao SolarWinds Orion e configura os pollers de status e tempo de resposta.
 
 .DESCRIPTION
-    Este script conecta à API do SolarWinds (SWIS) e adiciona nós usando apenas ICMP (ping),
+    Este script conecta à API do SolarWinds (SWIS) e força a adição dos nodes usando apenas ICMP (ping) mesmo se nao estiver pingando,
     configurando manualmente os pollers básicos.
-
+    Para executar é necessário realizar a intalação do SolarWinds SDK : (https://github.com/solarwinds/OrionSDK/releases)
+    
 .NOTES
     Autora: Giovana Prado
     Data: Julho/2025
