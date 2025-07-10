@@ -8,7 +8,6 @@
 
 .NOTES
     Autora: Giovana Prado
-    Empresa: Aeon IT
     Data: Julho/2025
 #>
 
