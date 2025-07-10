@@ -60,7 +60,7 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 Giovana Prado – Analista de TI e Observabilidade
 Especialista em monitoramento e observabilidade com foco em SolarWinds. 
 📍 Piracicaba/SP  
-🔗 [LinkedIn](https://www.linkedin.com/in/giovana-prado/)
+🔗 [LinkedIn](www.linkedin.com/in/giovana-p-0652b6107)
 
 ---
 
