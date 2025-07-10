@@ -12,11 +12,10 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 | Pasta             | Conteúdo Principal                                                                 |
 |------------------|--------------------------------------------------------------------------------------|
 | `scripts/`        | Scripts PowerShell para automações (ex: adição de nodes, gerenciamento, pollers)   |
-| `swql-queries/`   | Consultas SWQL prontas para relatórios, dashboards e troubleshooting                |
-| `projetos/`       | Projetos práticos e laboratórios (ex: Web Scanner Nmap, ICMP vs SNMP)               |
+| `swql-queries/`   | Consultas SWQL prontas para relatórios, dashboards e troubleshooting                |       
 | `casos-de-uso/`   | Situações reais ou simuladas com problemas, soluções e aprendizados                 |
 | `documentacao/`   | Guias e explicações detalhadas dos scripts ou integrações                          |
-| `assets/`         | Imagens e arquivos auxiliares para ilustração                                       |
+| `Integrações/`    | Integrações entre solarwinds e outras ferramentas                                   |
 
 ---
 
@@ -25,9 +24,6 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 
 ![SolarWinds](https://img.shields.io/badge/SolarWinds-Monitoring-orange)
 ![SWQL](https://img.shields.io/badge/SWQL-Query-blue)
-![ServiceNow](https://img.shields.io/badge/ServiceNow-Integration-003087)
-![Status](https://img.shields.io/badge/Status-Em%20Desenvolvimento-yellow)
-
 ---
 
 ## 💡 Destaques
@@ -38,10 +34,7 @@ Este repositório reúne meus estudos, automações, consultas e projetos voltad
 ### 🔍 Consultas SWQL
 (SWQL): consultas SWQL para criação de dashboards/relatórios.
 
-### ⚙️ Projetos
-
-### 🧾 Casos de Uso
-- [`reducao-downtime.md`](casos-de-uso/reducao-downtime.md): como a observabilidade reduziu o tempo de indisponibilidade de um link crítico.
+### ⚙️ Integrações
 
 ---
 
