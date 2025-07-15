@@ -6,7 +6,7 @@ Este diretório contém scripts de automação para auxiliar no gerenciamento e 
 
 | Nome do Script | Descrição | Linguagem |
 |----------------|-----------|-----------|
-| `adicionar-nodes-em-massa.ps1` | Adiciona múltiplos nodes ICMP via PowerShell mesmo que não estejam respondendo ao PING| PowerShell |
+| `adicionar-nodes-em-massa-ICMP.ps1` | Adiciona múltiplos nodes ICMP via PowerShell mesmo que não estejam respondendo ao PING| PowerShell |
 
 ## 🛠️ Pré-requisitos
 
