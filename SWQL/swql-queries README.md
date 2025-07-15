@@ -8,7 +8,7 @@ Este diretório reúne consultas otimizadas em SWQL para gerar relatórios, dash
 |-----------------|----------|
 | `disponibilidade-ultimo-mes.swql` | Retorna a porcentagem disponibilidade de uma interface no último mês |
 | `Alertas+24horas.swql` | Alertas que estão alarmando mais de 24 horas |
-| `status-agent-linux.swql` | Verifica status dos agentes em servidores Linux |
+| `Access-Points.swql` | Quantidade de Aps de uma determinada controller |
 
 ## 🧠 Sobre SWQL
 
