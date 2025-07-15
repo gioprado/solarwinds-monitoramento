@@ -7,7 +7,7 @@ Este diretório reúne consultas otimizadas em SWQL para gerar relatórios, dash
 | Nome do Arquivo | Objetivo |
 |-----------------|----------|
 | `disponibilidade-ultimo-mes.swql` | Retorna a porcentagem disponibilidade de uma interface no último mês |
-| `consumo-banda-link.swql` | Compara uso de banda real com limite contratado (ideal para WAN) |
+| `Alertas+24horas.swql` | Alertas que estão alarmando mais de 24 horas |
 | `status-agent-linux.swql` | Verifica status dos agentes em servidores Linux |
 
 ## 🧠 Sobre SWQL
