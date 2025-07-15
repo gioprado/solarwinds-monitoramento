@@ -6,7 +6,7 @@ Este diretório reúne consultas otimizadas em SWQL para gerar relatórios, dash
 
 | Nome do Arquivo | Objetivo |
 |-----------------|----------|
-| `uptime-mensal-interface.swql` | Retorna o tempo total de indisponibilidade de uma interface no último mês |
+| `disponibilidade-ultimo-mes.swql` | Retorna a porcentagem disponibilidade de uma interface no último mês |
 | `consumo-banda-link.swql` | Compara uso de banda real com limite contratado (ideal para WAN) |
 | `status-agent-linux.swql` | Verifica status dos agentes em servidores Linux |
 
