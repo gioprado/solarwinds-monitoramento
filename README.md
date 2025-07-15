@@ -3,7 +3,7 @@
 
 Este repositório reúne meus estudos, automações, consultas e projetos voltados para **monitoramento de infraestrutura de TI**, com foco em **SolarWinds**, **PowerShell**, **SWQL** e integrações.
 
-> 🔧 Desenvolvido e mantido por Giovana Prado – Analista de TI e Observabilidade
+> 🔧 Desenvolvido e mantido por Giovana Prado – Especialista de TI e Observabilidade
 
 ---
 
