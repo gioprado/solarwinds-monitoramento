@@ -20,7 +20,7 @@ Você pode testar essas consultas usando o **SolarWinds SWQL Studio** ou diretam
 
 ## 📷 Exemplos Visuais
 
-<img src="../imagens/total nodes +24h.png" width="400" />
+<img src="SWQL/imagens/total nodes +24h.png" width="400" />
 <img src="../imagens/dashboard-trafego-wan.png" width="400" />
 
 ## 🛑 Aviso
