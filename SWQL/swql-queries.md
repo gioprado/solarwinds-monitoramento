@@ -20,11 +20,11 @@ Você pode testar essas consultas usando o **SolarWinds SWQL Studio** ou diretam
 
 ## 📷 Exemplos Visuais
 
-|Nome do Alertas + 24 horas
+Alertas + 24 horas
 
 <img src="imagens/total nodes + 24h.png" width="400" />
 
-Nome do Access-Points
+Access-Points
 
 <img src="imagens/Access-Points.png" width="400" />
 
