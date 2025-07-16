@@ -20,11 +20,13 @@ Você pode testar essas consultas usando o **SolarWinds SWQL Studio** ou diretam
 
 ## 📷 Exemplos Visuais
 
-| `Alertas+24horas.swql` |
+|Nome do Alertas + 24 horas
+
 <img src="imagens/total nodes + 24h.png" width="400" />
 
-| `Access-Points.swql` |
-<img src="../imagens/dashboard-trafego-wan.png" width="400" />
+Nome do Access-Points
+
+<img src="imagens/Access-Points.png" width="400" />
 
 ## 🛑 Aviso
 
