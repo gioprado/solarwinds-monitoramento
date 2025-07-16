@@ -21,7 +21,8 @@ Você pode testar essas consultas usando o **SolarWinds SWQL Studio** ou diretam
 ## 📷 Exemplos Visuais
 
 disponibilidade ultimo mes
-<img src="imagens/disponibilidade-ultimo-mes.png" width="400" />
+
+<img src="imagens/disponibilidade-ultimo-mes.png" width="200" />
 
 Alertas + 24 horas
 
