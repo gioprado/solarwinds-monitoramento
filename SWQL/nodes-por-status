@@ -1,0 +1,4 @@
+#contagem de nodes por status
+
+SELECT COUNT(NODEID) AS TOTAL, STATUS FROM ORION.NODES N
+GROUP BY STATUS
