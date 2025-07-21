@@ -9,6 +9,7 @@ Este diretório reúne consultas otimizadas em SWQL para gerar relatórios, dash
 | `disponibilidade-ultimo-mes.swql` | Retorna a porcentagem disponibilidade de uma interface no último mês |
 | `Alertas+24horas.swql` | Alertas que estão alarmando mais de 24 horas |
 | `Access-Points.swql` | Quantidade de Aps de uma determinada controller |
+| `Nodes por Status` | Quantidade de nodes por status |
 
 ## 🧠 Sobre SWQL
 
@@ -31,6 +32,10 @@ Alertas + 24 horas
 Access-Points
 
 <img src="imagens/Access-Points.png" width="400" />
+
+Nodes por Status
+
+<img src="imagens/nodes-por-status.png" width="400" />
 
 ## 🛑 Aviso
 
